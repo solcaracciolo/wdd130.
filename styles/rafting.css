@@ -1,0 +1,290 @@
+    :root {
+    --primary-color: #050401;    
+    --secondary-color: #98959b;  
+     --accent1-color: #fffaff;    
+     --accent2-color: #fc5130;     
+   }
+
+   * {
+       margin: 90px;
+       padding: 0x;
+       box-sizing: border-box;
+   }
+   
+
+   
+   nav a {
+   
+       color: var(--accent2-color);
+       text-decoration: none;
+       font-size: 60px;
+       margin: 2rem;
+       font-family: system-ui,  sans-serif
+       
+    }
+
+    .hero img {
+        display: block;
+        width: 100%;
+        height: auto;
+        text-align: center;
+        
+        padding: 0px;
+        margin: 0rem;
+        float: center;
+        position: relative;
+        
+    }
+    
+    
+    h1
+    {
+
+    
+            top: 1220px;
+            left: 275px;
+
+            
+           
+            color: var(--accent1-color);
+            text-align: center;
+            font-size: 100px;
+        
+            border: 5px;
+            padding: 110px;
+           
+            position: absolute;
+            background-color: rgba(0, 0, 0, 0.5) ;
+           
+            width: 4200px;
+             font-family: 'Open Sans'
+        }
+        
+        .enjoy {
+          max-width: 400px;
+          margin: 1rem;
+          padding: 5rem;
+          border: rgba(0, 0, 0, 0.5);
+          position: absolute;
+          top: 1700px;
+          left: 600px; 
+          text-align: top;
+          width: 3000px;
+         
+         
+         }
+            
+           
+
+           
+
+            
+            
+            
+
+            
+            
+            
+            
+            
+            
+        
+       .enjoy p {
+        
+        top: 100px;
+        left: 150px;
+     
+       
+        color: #fffaff;
+        text-align: top;
+        font-size: 50px;
+       
+        border: 5px;
+        padding: 400px;
+       
+        position: absolute;
+        background-color: rgba(0, 0, 0, 0.5) ;
+       
+        width: 3500px;
+        font-family: sans-serif;
+       }
+
+          .enjoy img {
+            top: 445px;
+            left: 2900px;
+            position: absolute;
+            z-index: 1;
+            margin: 0 0 50rem 15rem;
+            
+            
+          }
+
+          h2 {
+            
+          
+            color: var(--accent2-color);
+            font-size: 100px;
+            font-family: sans-serif
+            
+            
+            
+            
+        
+
+           }
+
+
+           .adventures {
+            position: absolute;
+            top: 3760px;
+            left: 130px;
+
+
+
+           }
+
+
+           section p {
+            font-family: sans-serif;
+            font-size: 45px;
+           }
+
+
+
+           .history {
+            position: absolute;
+            top: 3190px;
+            left: 150px;
+           }
+
+           
+
+          
+            
+            .order2 {
+              float: left;
+              position: absolute;
+              top: 3900px;
+              left: 150px;
+              width: 1000px;
+              height: auto;
+            }
+
+            .description {
+              font-size: 20px;
+              font-family: sans-serif;
+              text-align: center;
+              position: absolute;
+              top: 390px;
+              left: 10px;
+              color: var(--accent2-color);
+
+            }
+            
+            
+
+            .description2 {
+              font-family: sans-serif;
+              font-size: 20px;
+              text-align: center;
+              position: absolute;
+              top: 1020px;
+              left: 100px;
+              color: var(--accent2-color);
+            }
+
+            .description3 {
+              font-family: sans-serif;
+              font-size: 20px;
+              text-align: center;
+              position: absolute;
+              top: 1650px;
+              left: 100px;
+              color: var(--accent2-color);
+
+
+
+            }
+            .description4 {
+              font-family: sans-serif;
+              font-size: 20px;
+              text-align: center;
+              position: absolute;
+              top: 2300px;
+              left: 100px;
+              color: var(--accent2-color);
+            }
+
+            .description5 {
+              font-family: sans-serif;
+              font-size: 20px;
+              text-align: center;
+              position: absolute;
+              top: 2950px;
+              left: 30px;
+              color: var(--accent2-color);
+
+            }
+            footer {
+              position: absolute;
+              top: 7100px;
+              left: 100px;
+              width: 6900px;
+              font-size: 50px;
+            }
+
+           
+
+           
+            
+
+          
+
+        
+            
+  
+
+           
+            
+            
+            
+          }
+
+          
+        
+           
+
+           
+        
+
+
+    
+      
+      
+       
+         
+       
+
+       
+
+        
+           
+
+       
+    
+
+
+        
+     
+
+      
+      
+    
+        
+
+
+
+
+   
+   
+    
